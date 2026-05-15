@@ -1,0 +1,9 @@
+name,quantity,link,price(dollar),use
+12x12mm Tactile Push Button,1,https://makerbazar.in/products/tactile-push-button?variant=47433066184944,0.47,for turning on and off
+330 ohm resstor,1,https://makerbazar.in/products/0-5-watt-dip-resistors-through-hole-resistance?variant=48049213636848,20,for limoting the current
+1N4007 diode,1,https://makerbazar.in/products/dip-rectifier-diode-through-hole?variant=46915109421296,0.14,for protecting the circuit flyback
+High Voltage Generator Arc Ignition,1,https://robu.in/product/15kv-high-voltage-generator-arc-ignition-inverter-step-up-boost-coil-module/,1.16,for genarate arc
+470uf 50v capasitor,1,https://makerbazar.in/products/electrolytic-capacitor-through-hole?variant=48721342791920,0.16,store current and give stabel voltage
+D880 transistor,1,https://www.electroncomponents.com/2sd880-npn-power-transistor-to-220-d880,0.13,for switching
+custom pcb,1,https://cart.jlcpcb.com/shopcart/cart/,4,connect all components
+delivery charges,4,,15,
