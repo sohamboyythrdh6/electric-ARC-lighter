@@ -1,11 +1,12 @@
 name,quantity,link,price(dollar),use
 12x12mm Tactile Push Button,1,https://makerbazar.in/products/tactile-push-button?variant=47433066184944,0.47,for turning on and off
-3.7v 50 mah lipo battery,1,https://robu.in/product/500mah-pcm-protected-micro-li-po-battery/,2.71,for power the lighter
+3.7v 400 mah lipo battery,1,https://robu.in/product/400mah-pcm-protected-micro-li-po-battery-2/,2.87,for power the lighter
 tp4056 battery charging module,1,https://robu.in/product/tp4056-1a-li-ion-battery-charging-board-micro-usb-with-current-protection-type-c-connector/,0.17,to charge the battery
 330 ohm resstor,1,https://makerbazar.in/products/0-5-watt-dip-resistors-through-hole-resistance?variant=48049213636848,20,for limoting the current
 1N4007 diode,1,https://makerbazar.in/products/dip-rectifier-diode-through-hole?variant=46915109421296,0.14,for protecting the circuit flyback
 High Voltage Arc Generator ,1,https://robu.in/product/15kv-high-voltage-generator-arc-ignition-inverter-step-up-boost-coil-module/,1.16,for genarate arc
 470uf 50v capasitor,1,https://makerbazar.in/products/electrolytic-capacitor-through-hole?variant=48721342791920,0.16,store current and give stabel voltage
 D880 transistor,1,https://componentstree.com/product/2sd880-y-d880-y-to-220-60v-3a-40w-audio-amplifier-switching-fsc/,0.26,for switching
-custom pcb,1,https://cart.jlcpcb.com/shopcart/cart/,4,connect all components
-delivery charges,4,,13,
+custom pcb,1,https://cart.jlcpcb.com/shopcart/cart/,2.1,connect all components
+custom case,https://cart.jlcpcb.com/shopcart/cart/,1.6,for cover it
+delivery charges,4,,15,
